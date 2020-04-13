@@ -4,7 +4,13 @@
 h1{
 	color: #000044;
 	font-family: Tahoma;
+	padding: 20px;
 }
 p{
 	color: #006600;
+}
+a{
+	color: red;
+	text-decoration: none;
+	margin: 30px
 }
